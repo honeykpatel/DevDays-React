@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DevDays-React/static/css/main.34c069c6.chunk.css",
+    "main.js": "/DevDays-React/static/js/main.a92ac3ed.chunk.js",
+    "main.js.map": "/DevDays-React/static/js/main.a92ac3ed.chunk.js.map",
+    "runtime-main.js": "/DevDays-React/static/js/runtime-main.2f73bae7.js",
+    "runtime-main.js.map": "/DevDays-React/static/js/runtime-main.2f73bae7.js.map",
+    "static/js/2.a38cbc45.chunk.js": "/DevDays-React/static/js/2.a38cbc45.chunk.js",
+    "static/js/2.a38cbc45.chunk.js.map": "/DevDays-React/static/js/2.a38cbc45.chunk.js.map",
+    "index.html": "/DevDays-React/index.html",
+    "static/css/main.34c069c6.chunk.css.map": "/DevDays-React/static/css/main.34c069c6.chunk.css.map",
+    "static/js/2.a38cbc45.chunk.js.LICENSE.txt": "/DevDays-React/static/js/2.a38cbc45.chunk.js.LICENSE.txt",
+    "static/media/octocat.b1076a0a.png": "/DevDays-React/static/media/octocat.b1076a0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f73bae7.js",
+    "static/js/2.a38cbc45.chunk.js",
+    "static/css/main.34c069c6.chunk.css",
+    "static/js/main.a92ac3ed.chunk.js"
+  ]
+}
